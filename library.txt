@@ -1,0 +1,4 @@
+npm run web -- --port 8085
+Rerun: Ctrl+C sau đó là npm run web -- --port 8085
+Thư viện cần install
+npm i @react-navigation/stack @react-navigation/native
